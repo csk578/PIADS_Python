@@ -1,1 +1,6 @@
 Hello PIADS People!
+This is a file that you will be able to search through.
+
+The previous line was empty.
+I wonder what I will ask you to do with this file with ^%&$(@) lots of special characters.
+
